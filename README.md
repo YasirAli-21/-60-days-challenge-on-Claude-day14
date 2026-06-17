@@ -165,9 +165,12 @@ A targeted resume performs better than a generic resume when applying for jobs.
 ✅ Day 6 Completed  
 ✅ Day 7 Completed  
    ✅ Day 8 Completed
-   ✅ Day 9 Completed
-   ✅ Day 10 Completed
-   ✅ Day 11 Completed
+     ✅ Day 9 Completed
+      ✅ Day 10 Completed
+      ✅ Day 11 Completed
+   
+  
+   
 
 ## 🌱 Future Focus
 
